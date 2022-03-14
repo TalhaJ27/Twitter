@@ -23,3 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+
+![](ezgif.com-twitter-gif.gif)
