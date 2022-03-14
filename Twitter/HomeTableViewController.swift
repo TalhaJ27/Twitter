@@ -58,6 +58,8 @@ class HomeTableViewController: UITableViewController {
             print("Oops!! Could not retreive tweets!!!")
         })
     }
+    
+    
     override func tableView(_ tableView: UITableView, willDisplay cell: UITableViewCell, forRowAt indexPath: IndexPath) {
         if indexPath.row + 1 == tweetArray.count {
             loadMoreTweets()
