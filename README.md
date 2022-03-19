@@ -17,6 +17,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
+![](ezgif.com-Twitter2.gif)
+
 
 -----
 # Twitter - Part I
